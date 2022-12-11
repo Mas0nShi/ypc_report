@@ -1,0 +1,8 @@
+{
+  "name": "YpHealth",
+  "title": "YpHealth",
+  "description":"元培健康打卡",
+  "url" : "http://localhost:8080",
+  "version": "1.0.0",
+  "sampleUrl": "http://localhost:8080"
+}
